@@ -92,5 +92,5 @@ else
 end
 
 gg.setValues(apply)
-gg.toast("✅ วาป" .. name .. " สำเร็จ!")
+gg.toast("✅ วาป" .. name .. " สำlเร็จ!")
 gg.setVisible(false)
